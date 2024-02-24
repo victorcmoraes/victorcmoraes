@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor de Moraes</h1>
+<h1 align="center">Hi 👋, I'm Victor Moraes</h1>
 <h3 align="center">Brazilian programming enthusiast, and fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorcmoraes&label=Profile%20views&color=0e75b6&style=flat" alt="victorcmoraes" /> </p>
