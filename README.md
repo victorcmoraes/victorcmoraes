@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Victor Moraes</h1>
-<h3 align="center">Brazilian programming enthusiast, and fullstack developer</h3>
+<h3 align="center">Brazilian programming enthusiast, and Backend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=victorcmoraes&label=Profile%20views&color=0e75b6&style=flat" alt="victorcmoraes" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNoMGg4Mms4bmQ5c2RodGw4MnIzZDFiZWZyYXppOXh4bWJmZnh1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ghI1gyqKymbY2mfYkD/giphy.gif">
 
-- 🌱 I’m currently learning **JS, Next and Angular**
+- 🌱 I’m currently learning **C#, .NET and Angular**
 
-- 💬 Ask me about **Java, Spring, Flask**
+- 💬 Ask me about **Python, Java and Flask**
 
 - 📫 How to reach me **victor.cmoraes@ufrpe.br**
 
